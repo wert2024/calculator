@@ -1,0 +1,74 @@
+h3 {
+ margin-left: 275px;	 
+}
+
+.p1 {
+   position: absolute; 
+	left: 20px;
+ }
+
+.p2 {
+   position: absolute; 
+	left: 100px;
+ }
+
+.p3 {
+   position: absolute; 
+	left: 220px;  
+}
+
+.p4 {
+   position: absolute; 
+	left: 200px;  
+}
+
+
+
+.p11 {
+position: absolute; 
+	left: 260px; 
+       }
+
+.p22 {
+    position: absolute; 
+	left: 180px; 
+ }
+
+.p33 {
+    position: absolute; 
+	left: 60px;
+  }
+
+
+.p44 {
+    position: absolute; 
+	left: 80px;
+  }
+
+
+button {
+     
+     margin-left: 310px;
+     margin-bottom:50px; 
+ }
+
+.Rezyltatpp111{
+      position: absolute; 
+	left: 280px;
+}
+
+.Rezyltatpp222{
+    position: absolute; 
+	left: 280px;  
+}
+
+
+
+.forma1{
+     position: absolute; 
+     display: block;
+     top: 40px;  
+     left: 600px;  	
+		
+
+    }
